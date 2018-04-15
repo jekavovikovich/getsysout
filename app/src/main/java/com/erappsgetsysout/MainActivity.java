@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     Process process ;
     byte[] byteArry ;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
